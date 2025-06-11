@@ -2,8 +2,8 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    database: raw
-    schema: jaffle_shop
+    database: BORJA_ZARAGOZA_DB
+    schema: DBT_BORJAZARAGOZA
     tables:
       - name: customers 
       - name: orders
